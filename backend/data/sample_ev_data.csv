@@ -1,0 +1,201 @@
+make,model,base_price,year0
+Tesla,Model 3,40000,2016
+Tesla,Model 3,40000,2016
+Tesla,Model 3,40000,2020
+Tesla,Model Y,45000,2015
+Tesla,Model Y,45000,2017
+Tesla,Model Y,45000,2024
+Tesla,Model S,90000,2025
+Tesla,Model S,90000,2023
+Tesla,Model S,90000,2020
+Tesla,Model X,100000,2015
+Tesla,Model X,100000,2014
+Tesla,Model X,100000,2015
+Volkswagen,ID.3,35000,2023
+Volkswagen,ID.3,35000,2014
+Volkswagen,ID.3,35000,2014
+Volkswagen,ID.4,42000,2023
+Volkswagen,ID.4,42000,2017
+Volkswagen,ID.4,42000,2018
+Volkswagen,ID.5,47000,2014
+Volkswagen,ID.5,47000,2014
+Volkswagen,ID.5,47000,2018
+Volkswagen,e-up!,16000,2015
+Volkswagen,e-up!,16000,2021
+Volkswagen,e-up!,16000,2017
+Volkswagen,e-Golf,25000,2016
+Volkswagen,e-Golf,25000,2018
+Volkswagen,e-Golf,25000,2021
+Renault,Zoe,25000,2016
+Renault,Zoe,25000,2018
+Renault,Zoe,25000,2022
+Renault,Megane E-Tech,38000,2014
+Renault,Megane E-Tech,38000,2021
+Renault,Megane E-Tech,38000,2023
+Renault,Twingo Electric,22000,2017
+Renault,Twingo Electric,22000,2018
+Renault,Twingo Electric,22000,2020
+Nissan,Leaf,30000,2015
+Nissan,Leaf,30000,2019
+Nissan,Leaf,30000,2020
+Nissan,Ariya,48000,2025
+Nissan,Ariya,48000,2016
+Nissan,Ariya,48000,2015
+BMW,i3,38000,2022
+BMW,i3,38000,2017
+BMW,i3,38000,2024
+BMW,i4,55000,2019
+BMW,i4,55000,2014
+BMW,i4,55000,2025
+BMW,iX3,60000,2016
+BMW,iX3,60000,2024
+BMW,iX3,60000,2024
+BMW,iX,90000,2020
+BMW,iX,90000,2016
+BMW,iX,90000,2018
+BMW,i7,120000,2025
+BMW,i7,120000,2025
+BMW,i7,120000,2018
+Mercedes-Benz,EQA,50000,2020
+Mercedes-Benz,EQA,50000,2017
+Mercedes-Benz,EQA,50000,2024
+Mercedes-Benz,EQB,55000,2014
+Mercedes-Benz,EQB,55000,2020
+Mercedes-Benz,EQB,55000,2018
+Mercedes-Benz,EQC,70000,2021
+Mercedes-Benz,EQC,70000,2025
+Mercedes-Benz,EQC,70000,2020
+Mercedes-Benz,EQE,80000,2021
+Mercedes-Benz,EQE,80000,2015
+Mercedes-Benz,EQE,80000,2025
+Mercedes-Benz,EQS,110000,2024
+Mercedes-Benz,EQS,110000,2019
+Mercedes-Benz,EQS,110000,2021
+Audi,Q4 e-tron,50000,2023
+Audi,Q4 e-tron,50000,2016
+Audi,Q4 e-tron,50000,2018
+Audi,Q8 e-tron,80000,2022
+Audi,Q8 e-tron,80000,2015
+Audi,Q8 e-tron,80000,2016
+Audi,e-tron GT,100000,2015
+Audi,e-tron GT,100000,2015
+Audi,e-tron GT,100000,2017
+Hyundai,Kona Electric,30000,2019
+Hyundai,Kona Electric,30000,2023
+Hyundai,Kona Electric,30000,2014
+Hyundai,Ioniq Electric,27000,2022
+Hyundai,Ioniq Electric,27000,2025
+Hyundai,Ioniq Electric,27000,2015
+Hyundai,Ioniq 5,45000,2020
+Hyundai,Ioniq 5,45000,2017
+Hyundai,Ioniq 5,45000,2017
+Hyundai,Ioniq 6,48000,2025
+Hyundai,Ioniq 6,48000,2019
+Hyundai,Ioniq 6,48000,2023
+Kia,e-Niro,32000,2021
+Kia,e-Niro,32000,2023
+Kia,e-Niro,32000,2016
+Kia,Soul EV,28000,2017
+Kia,Soul EV,28000,2025
+Kia,Soul EV,28000,2017
+Kia,EV6,47000,2017
+Kia,EV6,47000,2022
+Kia,EV6,47000,2020
+Kia,EV9,70000,2023
+Kia,EV9,70000,2021
+Kia,EV9,70000,2020
+Peugeot,e-208,28000,2017
+Peugeot,e-208,28000,2023
+Peugeot,e-208,28000,2020
+Peugeot,e-2008,32000,2020
+Peugeot,e-2008,32000,2025
+Peugeot,e-2008,32000,2020
+Peugeot,e-308,35000,2015
+Peugeot,e-308,35000,2024
+Peugeot,e-308,35000,2017
+Opel,Corsa-e,28000,2018
+Opel,Corsa-e,28000,2017
+Opel,Corsa-e,28000,2015
+Opel,Mokka-e,32000,2014
+Opel,Mokka-e,32000,2019
+Opel,Mokka-e,32000,2022
+Citroen,C4,32000,2020
+Citroen,C4,32000,2025
+Citroen,C4,32000,2022
+Citroen,C3,25000,2023
+Citroen,C3,25000,2015
+Citroen,C3,25000,2014
+Citroen,Ami,7000,2017
+Citroen,Ami,7000,2015
+Citroen,Ami,7000,2017
+Fiat,500e,26000,2018
+Fiat,500e,26000,2021
+Fiat,500e,26000,2020
+Skoda,Enyaq iV,42000,2015
+Skoda,Enyaq iV,42000,2018
+Skoda,Enyaq iV,42000,2017
+Cupra,Born,36000,2017
+Cupra,Born,36000,2021
+Cupra,Born,36000,2020
+Cupra,Tavascan,50000,2022
+Cupra,Tavascan,50000,2020
+Cupra,Tavascan,50000,2018
+Dacia,Spring,20000,2018
+Dacia,Spring,20000,2021
+Dacia,Spring,20000,2014
+Polestar,2,50000,2014
+Polestar,2,50000,2023
+Polestar,2,50000,2022
+Polestar,3,85000,2022
+Polestar,3,85000,2018
+Polestar,3,85000,2024
+Volvo,XC40 Recharge,55000,2024
+Volvo,XC40 Recharge,55000,2022
+Volvo,XC40 Recharge,55000,2020
+Volvo,C40,54000,2015
+Volvo,C40,54000,2020
+Volvo,C40,54000,2022
+Volvo,EX30,35000,2021
+Volvo,EX30,35000,2024
+Volvo,EX30,35000,2023
+Volvo,EX90,100000,2024
+Volvo,EX90,100000,2025
+Volvo,EX90,100000,2015
+Porsche,Taycan,100000,2021
+Porsche,Taycan,100000,2025
+Porsche,Taycan,100000,2015
+Porsche,Macan Electric,80000,2021
+Porsche,Macan Electric,80000,2023
+Porsche,Macan Electric,80000,2022
+MG,ZS EV,30000,2021
+MG,ZS EV,30000,2015
+MG,ZS EV,30000,2017
+MG,MG4,29000,2015
+MG,MG4,29000,2022
+MG,MG4,29000,2021
+MG,MG5,31000,2019
+MG,MG5,31000,2015
+MG,MG5,31000,2016
+BYD,Atto 3,38000,2019
+BYD,Atto 3,38000,2016
+BYD,Atto 3,38000,2016
+BYD,Dolphin,28000,2023
+BYD,Dolphin,28000,2017
+BYD,Dolphin,28000,2016
+BYD,Seal,45000,2025
+BYD,Seal,45000,2020
+BYD,Seal,45000,2021
+BYD,Han,60000,2023
+BYD,Han,60000,2015
+BYD,Han,60000,2017
+Smart,EQ fortwo,22000,2025
+Smart,EQ fortwo,22000,2024
+Smart,EQ fortwo,22000,2022
+Smart,EQ forfour,23000,2025
+Smart,EQ forfour,23000,2024
+Smart,EQ forfour,23000,2017
+Smart,#1,40000,2024
+Smart,#1,40000,2024
+Smart,#1,40000,2025
+Smart,#3,45000,2021
+Smart,#3,45000,2023
